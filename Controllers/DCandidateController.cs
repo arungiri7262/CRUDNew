@@ -17,7 +17,7 @@ namespace WebAPI.Controllers
 
         public DCandidateController(DonationDBContext context)
         {
-            _context = context;
+           
         }
 
         // GET: api/DCandidate
